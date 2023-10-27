@@ -2,7 +2,7 @@
 
 
  
-![Pagina home](image-1.png)
+![Pagina home](https://ibb.co/hyK67Mn)
 
 
 ## Projeto
