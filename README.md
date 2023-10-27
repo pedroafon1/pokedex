@@ -1,9 +1,6 @@
 # Pokedéx
 
 
- 
-![Pagina home](image-1.png)
-
 
 ## Projeto
 Plataforma web para listagem de pokémons e mostrar suas caracteristicas como seu tipo, peso, altura, habilidade especial e fraquezas e logo abaixo tem uma tabela mostrando seu HP, ataque, defesa, especial ataque, especial defesa e velocidade. Todos esses dados sobre os pokémons como nome, id, imagen, tipo e outras informações vieram da API PokéApi.
