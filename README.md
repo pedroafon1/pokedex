@@ -20,4 +20,4 @@ Plataforma web para listagem de pokémons e mostrar suas caracteristicas como se
 * [PokéApi](https://pokeapi.co/)
 
 ## Deploy
-
+* (https://pedroafon1.github.io/pokedex/)
