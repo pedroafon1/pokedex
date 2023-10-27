@@ -906,11 +906,11 @@ ul {
   }
 }
 
-.open-modal sada .modal {
+.open-modal .modal {
   opacity: 1;
   pointer-events: all;
 }
-.open-modal sada .modal .box {
+.open-modal .modal .box {
   -webkit-transform: translateY(0);
   transform: translateY(0);
 }
