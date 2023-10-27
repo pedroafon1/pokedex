@@ -419,7 +419,7 @@ function searchPokemon() {
       const countPokemons = document.getElementById("js-count-pokemons");
       areaPokemons.innerHTML = "";
       btnLoadMore.style.display = "none";
-      countPokemons.textContent = 1;
+      countPokemons.textContent = 0;
 
       const { name, id, sprites, types } = response.data;
 
